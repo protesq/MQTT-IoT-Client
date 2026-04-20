@@ -1,0 +1,16 @@
+1776694643: mosquitto version 2.1.2 starting
+1776694643: Config loaded from /mosquitto/config/mosquitto.conf.
+1776694643: Bridge support available.
+1776694643: Persistence support available.
+1776694643: TLS support available.
+1776694643: TLS-PSK support available.
+1776694643: Websockets support available.
+1776694643: Opening ipv4 listen socket on port 1883.
+1776694643: Opening ipv6 listen socket on port 1883.
+1776694643: Opening ipv4 listen socket on port 9001.
+1776694643: Opening ipv6 listen socket on port 9001.
+1776694643: mosquitto version 2.1.2 running
+1776694655: New connection from 172.19.0.1:56586 on port 1883.
+1776694655: New client connected from 172.19.0.1:56586 as iot-manager (p4, c1, k60).
+1776694674: New connection from 172.19.0.1:48680 on port 1883.
+1776694674: New client connected from 172.19.0.1:48680 as device-dca0b9bd-cdd9-424d-96ac-8e637231da72 (p4, c0, k60).
